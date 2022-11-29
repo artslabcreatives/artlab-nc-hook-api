@@ -19,7 +19,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 /**
  * Add new form action after form submission.
  *
- * @since 1.0.0
+ * @since 1.0.1
  * @param ElementorPro\Modules\Forms\Registrars\Form_Actions_Registrar $form_actions_registrar
  * @return void
  */
@@ -35,7 +35,7 @@ add_action( 'elementor_pro/forms/actions/register', 'add_new_ctp_save_action' );
 /**
  * Add new form action after form submission.
  *
- * @since 1.0.0
+ * @since 1.0.1
  * @param ElementorPro\Modules\Forms\Registrars\Form_Actions_Registrar $form_actions_registrar
  * @return void
  */
