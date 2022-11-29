@@ -3,7 +3,7 @@
 	"slug" : "artlab-nc-hook-api",
 	"author" : "<a href='https://artslabcreatives.com'>Miyuru Dharmage</a>",
 	"author_profile" : "http://profiles.wordpress.org/voxsar",
-	"version" : "1.1.1",
+	"version" : "1.2.1",
 	"download_url" : "https://plugins.artslabcreatives.com/artlab-nc-hook-api/updates/artlab-nc-hook-api.zip",
 	"requires" : "3.0",
 	"tested" : "5.8",
